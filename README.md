@@ -1,5 +1,5 @@
 ## Description
-This plugin is based on popular BF2 Rank Mod plugin by *pRED (from amxmodx).
+This plugin is based on popular BF4 Rank Mod plugin by *pRED (from amxmodx).
 Modification is characterised by simplicity, uniqueness, easy installation.
 It is one of the few plugins, who survived time try and still have a lot of fans.
 Plugin encourages players to compete with each other, earn badges, gain achievements, unblock skills, kill and improve statistics.
